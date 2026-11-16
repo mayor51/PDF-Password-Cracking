@@ -50,7 +50,7 @@ I initiated the password-cracking process using Johnny.
 
 The tool tested password candidates against the extracted hash until a matching password was found.
 
-![Johnny Password Cracking](screenshot/johnnypasswordcracking.png)
+![johnny Password Cracking](screenshot/johnnypasswordcracking.png)
 
 ### Step 4 – Password Successfully Recovered
 
@@ -64,7 +64,7 @@ I opened the protected PDF in Adobe Acrobat Reader and entered the recovered pas
 
 The document opened successfully and displayed the captured flag.
 
-![onnyflag](screenshot/jonnyflag.png)
+![johnnyflag](screenshot/johnnyflag.png)
 
 **Captured Flag:**
 
